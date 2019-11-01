@@ -27,6 +27,12 @@ namespace Project6363.Models
       
         public DbSet<Customer> Customer { get; set; }
 
+      
+        public DbSet<Project6363.Models.Business> Business { get; set; }
+
+      
+        public DbSet<Project6363.Models.Saving> Saving { get; set; }
+
 
 
     }

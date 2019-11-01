@@ -135,3 +135,13 @@ C:\Users\dines\source\repos\Project6363\Project6363\bin\Debug\netcoreapp3.0\Syst
 C:\Users\dines\source\repos\Project6363\Project6363\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\dines\source\repos\Project6363\Project6363\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Project6363.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Businesses\Create.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Businesses\Delete.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Businesses\Details.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Businesses\Edit.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Businesses\Index.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Savings\Create.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Savings\Delete.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Savings\Details.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Savings\Edit.cshtml.g.cs
+C:\Users\dines\source\repos\Project6363\Project6363\obj\Debug\netcoreapp3.0\Razor\Views\Savings\Index.cshtml.g.cs
